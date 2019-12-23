@@ -127,6 +127,8 @@ http://www.woothemes.com/2013/07/how-to-fight-to-make-your-distributed-team-a-co
 
 # Jobs
 
+https://tarta.ai/ - Tarta AI can monitor open vacancies, match you with the best jobs and set up an interview with a recruiter.
+
 http://www.remoteyear.com/jobs/
 
 https://weworkremotely.com
